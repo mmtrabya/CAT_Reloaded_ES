@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722109866 source:f:\cat reloaded es\4-loops\main.c
+	<stdio.h>
+	<stdlib.h>
+
